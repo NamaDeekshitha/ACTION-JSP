@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>menu bar</title>
+<style>
+*{
+  margin:2px;
+  padding:2px;
+}
+
+ul{
+  list-style-type:none;
+}
+ul li{
+      float:left;
+      width:100px;
+      height:50px;
+      background-color:light grey;
+      font-size:30px;
+      text-align:center;
+      line-height:50px;
+}
+ul li a{
+        text-decoration:none;
+
+
+        color:black;
+        display:block;
+}
+ul li a:hover{
+            background-color:lightblue;
+            color:purple;
+            }
+ul li ul li{
+            display:none;
+}
+ul li:hover ul li{
+      display:block;
+}
+
+</style>
+</head>
+<body background="curly.jpg" height="100" style="background-repeat:no-repeat;background-size:cover" >
+<img src="max.png">
+     
+         <ul> <li><a href="#">women</a>
+         <ul>
+              <li><a href="#">tops</a></li> 
+              <li><a href="#">kurtis</a></li>
+              <li><a href="#">bottoms</a></li>
+              <li><a href="#">innerwear</a></li>
+              <li><a href="#">plazoos</a></li>
+           </ul>
+           </li>
+    <li><a href="#">men</a>
+        <ul><li><a href="#">shirts</a></li>
+            <li><a href="#">pants</a></li>
+            <li><a href="#">jackets</a></li>
+            <li><a href="#">hoodies</a></li>
+         </ul>
+          </li>
+    <li><a href="#">girls</a>
+      <ul><li><a href="#">indianwear</a></li>
+          <li><a href="#">tops</a></li>
+          <li><a href="#">bottoms</a></li>
+          <li><a href="#">winterwear</a></li>
+      </ul>
+      </li>
+    
+    <li><a href="#">boys</a>
+     <ul><li><a href="#">shoes</a></li>
+         <li><a href="#">formalshoes</a></li>
+         <li><a href="#">chappals</a></li>
+         <li><a href="#">sportswear</a></li>
+    </ul>
+    </li>
+    <li><a href="#">kids</a>
+    <ul><li><a href="#">infantwear</a></li>
+       <li><a href="#">bottoms</a></li>
+       <li><a href="#">t-shirts</a></li>
+       <li><a href="#">shoes</a></li>
+</ul>
+</li>
+</ul>
+<div class="search-box">
+<input type="text" placeholder="search.....">
+<button>&#128269;</button> </div><pre>                                                                                           <b><font size="5";text="white">Signin or signup |basket<img src="basket.png"></font></b></pre>                                     
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+<hr color="aqua">
+<b><marquee bgcolor="aqua" height="30">GET FLAT 50% OFF ON SPRING NEW ARRIVALS,WHEN YOU SHOP FOR 1900 OR MORE</marquee></b>
+<hr color="aqua">
+
+<marquee><img src="women.jpg" width="400" height="400"/><img src="men.jpg" width="400" height="400"/><img src="shortgirl.jpg" width="400" height="400"/><img src="shortboy.jpg" width="400" height="400"/></marquee>
+<img src="phone.png" opacity><img src="help.png"><img src="message.png">
+</body>
+</html>
