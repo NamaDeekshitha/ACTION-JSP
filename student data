@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>student</title>
+</head>
+<body>
+<center><h1 style="color:red">STUDENT DATA</h1></center><hr><hr>
+<em><p style="color:orange">This table consists of students data which includes their place,company,name and their favourite food.
+everyone is from different places and they have their own taste.</p></em>
+<pre>hii everyone
+         this is deekshitha
+             i am from kadiri</pre>
+<hr color="red">
+<hr color="red">
+<marquee <font face="courier"size="70">FRIENDS FOR LIFE</font></marquee>
+<hr color="red">
+<hr color="red">
+<table background="doodle.jpg"border="6" style=border-collapse:collapse height="9
+
+0" width="80">
+<caption style="color:blue"><mark><font size="30">FRIENDS</font></mark></caption>
+<th style="color:green">S.NO</th><th style="color:green">STUDENT NAME</th><th style="color:green">PLACE</th><th style="color:green">COMPANY</th><th style="color:green">FAVOURITE FOOD</th>     
+<tr style="color:red"><td>1</td><td>Deekshitha</td><td>kadiri</td><td>cognizant</td><td>pizza</td></tr>
+<tr style="color:blue"><td>2</td><td>chethana</td><td>madanapalle</td><td>mindtree</td><td>chicken</td></tr>
+<tr style="color:brown"><td>3</td><td>dharani</td><td>chittor</td><td>accenture</td><td>icecream</td></tr>
+<tr style="color:cyan"><td>4</td><td>bhavana</td><td>punganur</td><td>tcs</td><td>burger</td></tr>
+<tr style="color:violet"><td>5</td><td>anjali</td><td>kadiri</td><td>still waiting</td><td>lollipop</td></tr>
+</table>
+<ul type="circle">
+     <li>deekshitha</li>
+     <li>keerthi</li>
+     <li>sravani</li>
+     <li>chandini</li>
+     <li>charitha</li>
+</ul>
+<ol type="A">
+     <li>deekshitha</li>
+     <li>keerthi</li>
+     <li>sravani</li>
+     <li>chandini</li>
+     <li>charitha</li>
+</ol>
+
+<img src="doodle.jpg"border="4">
+</body>
+</html>
