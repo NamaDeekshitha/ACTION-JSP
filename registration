@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>empty elements</title>
+</head>
+<body>
+<table>
+<tr><td>First name:</td><td><input type="text" placeholder="first name" name=""></td></tr>
+<tr><td>Last name:</td><td><input type="text" placeholder="last name" name=""></td></tr>
+<tr><td>email:</td><td><input type="text" placeholder="ex.someone@gmail.com" email=""></td></tr>
+<tr><td>gender:</td><td><input type="radio">male<input type="radio">female</td></tr>
+<tr><td>password:</td><td><input type="text" password=""></td></tr>
+<tr><td>phone number:</td>
+<td>
+<select>
+<option>91</option>
+<option>92</option>
+<option>93</option>
+<option>94</option>
+<option>95</option>
+</select><input type:"text" placeholder="891922****" number=""></td></tr>
+<tr><td>DOB:</td><td><input type="number" placeholder="dd//mm//yyyy" dob=""></td><tr>
+<tr><td><input type="submit" value="submit"></td></tr>
+</table>
+</body>
+<hr><hr>
+<marquee>
+<p><font face="courier"size="80"color="red">DEEKSHITHA </P><hr><hr>
+
+</html>
+
+ 
