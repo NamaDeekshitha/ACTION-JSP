@@ -1,0 +1,18 @@
+//good.html//
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>split</title>
+</head>
+<body>
+<a href="first.html" target="f1">about</a>
+</body>
+</html>
+
+
+//bad.html//
+<frameset cols="30%,70%">
+<frame src="good.html">
+<frame src=" " name="f1">
+</frameset>
