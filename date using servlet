@@ -1,0 +1,30 @@
+//date html//
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="Dateexample">
+Date:<button type="submit" name="num1">submit</button>
+</body>
+</html>
+
+
+//dateexample servlet page//
+import java.io.*;
+import java.util.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+public class Dateexample extends HttpServlet{
+   public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+  PrintWriter pw = response.getWriter();
+  Date today = new Date();
+  pw.println("<html>"+"<body><h1>Today Date is</h1>");
+  pw.println("<b>"+ today+"</b></body>"+ "</html>");
+  }
+}
+
+	 
